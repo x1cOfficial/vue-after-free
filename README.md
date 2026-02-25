@@ -72,13 +72,13 @@ Format your USB drive to MBR partition and exFAT format.
 The PS Vue exploit can be run a number of ways.
 Below are requirments and instructions on how to apply the different methods. Please create backups of savedata relevant to running the exploit and of your own from games.   
 
-Usually the Vue exploit uses the save file to load jailbreak data from the HDD, if the data becomes corrupted making you stuck on "There is a network communication issue" error" the Vue `OnlineSave` can be used to recover. Adittionally by using Vue from extended storage and resigning the `OnlineSave` and a fake activated or real PSN account you can retain all current data, or recover and jailbreak no matter what after jailbreak related data corruption. 
+Usually the Vue exploit uses the save file to load jailbreak data from the HDD, but if the data becomes corrupted making you stuck on "There is a network communication issue" error, the Vue `OnlineSave` can be used to recover. Adittionally by using Vue from extended storage and resigning the `OnlineSave` and a fake activated or real PSN account you can retain all current data, or recover and jailbreak no matter what after jailbreak related data corruption. 
 
 If you can already jailbreak and want to try Vue just use the manual method. 
 
 If you cannot jailbreak and have no activated or real PSN account you will need to use the SystemBackup which will erase all current data on the console. 
 
-Lastly Vue has a fun UI with cats and Theme support for you to tinker with alongside a payload menu and auto run options but if you'd like to skip all that and simply jailbreak and load the payload from the USB then you can use the Lite version for any of the 3 methods Manual, Extended Storage andSystem Backup.
+Lastly, Vue has a fun UI with cats and Theme support for you to tinker with alongside a payload menu and auto run options but if you'd like to skip all that and simply jailbreak and load the payload from the USB then you can use the Lite version for either the Manual or System Backup methods.
 
 ## Requirements
 
@@ -90,7 +90,7 @@ Lastly Vue has a fun UI with cats and Theme support for you to tinker with along
 
   * PlayStation Vue 1.01 base and 1.24 patch.(Referred to as "PS Vue or Vue" later in the guide). [Download](https://www.mediafire.com/file/45owcabezln2ykm/CUSA00960.zip/file)
 
-### For Non-Jailbroken PS4 Extended Storage and Save Resign
+### For Non-Jailbroken PS4 using Extended Storage and Save Resign
   * Internet connection on the PS4. 
   * Fake or legit activated PS4 user account.
   * 256GB or above USB/HDD/SSD. Any drive larger than 256GB will also work.
@@ -98,7 +98,7 @@ Lastly Vue has a fun UI with cats and Theme support for you to tinker with along
   > [!IMPORTANT]
   > You will resign the save file that installs the exploit data through the internet.
 
-### For Non-Jailbroken PS4 System Backup 
+### For Non-Jailbroken PS4 using the System Backup method
   * Any kind of network connection to launch the app.
   * USB flash drive.
   * System backup file.
